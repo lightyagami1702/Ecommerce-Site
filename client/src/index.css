@@ -96,3 +96,21 @@ font-family: 'Poppins', sans-serif; */
   align-items: center;
   justify-content: center;
 }
+.list-group-item.active{
+  background-color: #181818;
+  color: white;
+  border-color: black;
+}
+.cato-form{
+  display: flex;
+  align-items: flex-end;
+  
+}
+.cato-form .form-control{
+  width: max-content
+}
+.product-link{
+  text-decoration: none !important;
+  color: black;
+
+}
