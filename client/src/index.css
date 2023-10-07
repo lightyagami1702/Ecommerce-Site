@@ -118,6 +118,7 @@ font-family: 'Poppins', sans-serif; */
  justify-content: center;
 }
 .details-img{
-  height: 300px;
-  width: 200px;
+  height: 500px;
+  width: 300px;
+  justify-content: center;
 }
