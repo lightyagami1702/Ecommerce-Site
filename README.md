@@ -1,4 +1,4 @@
- Commerce Website - MERN Stack Project
+ Commerce Website - MERN Stack Project (Currently cyclic is shutting down so I am looking for another alternative for deployment)
 
 Welcome to the Commerce Website project! This application is built with the MERN stack (MongoDB, Express.js, React, Node.js) and includes a range of features designed to provide a robust e-commerce experience. Whether you're browsing products, managing inventory, or handling transactions, this app covers it all.
 
