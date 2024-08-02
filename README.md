@@ -4,11 +4,11 @@ Welcome to the Commerce Website project! This application is built with the MERN
 
 Features
 
-- **Admin and User Login: Secure login functionality for both administrators and users.
-- **Add to Cart:** Users can easily add products to their cart for streamlined shopping.
-- **Payment Gateway:** Integrated payment system for processing transactions.
-- **Price Filter:** Allows users to filter products based on price ranges.
-- **Category Filter:** Users can filter products by categories to find what they're looking for quickly.
+- Admin and User Login: Secure login functionality for both administrators and users.
+- Add to Cart: Users can easily add products to their cart for streamlined shopping.
+- Payment Gateway: Integrated payment system for processing transactions.
+- Price Filter: Allows users to filter products based on price ranges.
+- Category Filter: Users can filter products by categories to find what they're looking for quickly.
 
 Installation Guide
 
@@ -23,11 +23,7 @@ Prerequisites
 1. Clone the Repository
 
 First, clone the repository from GitHub:
-
-bash
-git clone https://github.com/yourusername/commerce-website.git
-cd commerce-website
-
+cd Ecommerce-Site
 
 2. Install Dependencies
 
@@ -71,7 +67,7 @@ If you want to seed the database with initial data, navigate to the `server` dir
 
 First, start the backend server:
 
-npm run dev
+`npm run dev`
 both the client and server run on this command concurrently
 
 The frontend application should now be running on [http://localhost:3000](http://localhost:3000), and the backend API should be running on [http://localhost:5000](http://localhost:5000).
